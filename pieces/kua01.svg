@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22mm"
+   height="22mm"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="kua01"
+     transform="translate(-55.214249,-43.120422)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect125"
+       width="20"
+       height="20"
+       x="56.214249"
+       y="44.120422" />
+    <circle
+       style="fill:#271a14;fill-opacity:1;stroke:none;stroke-width:1.42105;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="circle125"
+       cx="74.539459"
+       cy="45.869919"
+       r="0.61646682" />
+    <circle
+       style="fill:#271a14;fill-opacity:1;stroke:none;stroke-width:1.42105;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="circle126"
+       cx="74.539459"
+       cy="47.90303"
+       r="0.61646682" />
+    <circle
+       style="fill:#271a14;fill-opacity:1;stroke:none;stroke-width:1.42105;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="circle127"
+       cx="47.90303"
+       cy="-72.50634"
+       r="0.61646682"
+       transform="rotate(90)" />
+    <circle
+       style="fill:#271a14;fill-opacity:1;stroke:none;stroke-width:1.42105;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="circle128"
+       cx="45.869919"
+       cy="-72.50634"
+       r="0.61646682"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#271a14;fill-opacity:1;stroke:none;stroke-width:1.3599;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect128"
+       width="20"
+       height="1.0555973"
+       x="56.214249"
+       y="57.79657" />
+  </g>
+</svg>

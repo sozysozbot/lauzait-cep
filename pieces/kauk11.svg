@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22mm"
+   height="22mm"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="g4"
+     transform="translate(-20.813608,-267.37543)">
+    <rect
+       style="fill:#035445;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect480"
+       width="20"
+       height="20"
+       x="21.813608"
+       y="268.37543" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.42105;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="circle480"
+       cx="40.138805"
+       cy="270.12491"
+       r="0.61646682" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.42105;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="circle481"
+       cx="40.138805"
+       cy="272.15802"
+       r="0.61646682" />
+    <path
+       id="path496"
+       style="fill:#ffffff;stroke-width:1.37354;paint-order:markers stroke fill"
+       d="m 21.813845,283.90999 v 1.05574 l 7.370087,1.47898 2.63033,0.52814 2.62981,-0.52762 7.36958,-1.4795 v -1.05574 l -9.99991,2.00711 z" />
+    <path
+       d="m 30.847002,279.20786 v 0.7098 0.70965 h 0.9855 0.98549 l -0.0227,-0.68769 -0.0227,-0.68771 -0.96277,-0.0219 z"
+       id="path484"
+       style="fill:#ffffff;stroke-width:0.297049" />
+    <path
+       d="m 31.767872,269.705 c -0.0169,0.0204 -0.42037,1.46936 -0.89647,3.22007 l -0.8656,3.18306 0.18328,0.15719 c 0.34649,0.29714 0.65559,1.324 0.65731,2.18345 l 5.9e-4,0.29719 0.96278,-0.0221 0.96278,-0.0221 0.019,-0.39297 c 0.0475,-0.97519 0.31201,-1.79067 0.65976,-2.03425 l 0.17008,-0.11917 -0.85149,-3.1467 c -0.8092,-2.99076 -0.93024,-3.39001 -1.00208,-3.30372 z"
+       id="path485"
+       style="fill:#ffffff;stroke-width:0.297049" />
+    <path
+       d="m 30.847002,281.14579 v 0.7098 0.70965 h 0.9855 0.98549 l -0.0227,-0.68769 -0.0227,-0.68771 -0.96277,-0.0219 z"
+       id="path492"
+       style="fill:#ffffff;stroke-width:0.297049" />
+  </g>
+</svg>
