@@ -48,7 +48,7 @@ export function createNewInitialConfig() {
     ALL_CARDS[i] = tmp;
   }
 
-  console.log(ALL_CARDS);
+  // console.log(ALL_CARDS);
 
   const BOARD = ALL_CARDS.slice(0, 48);
   const PLAYER_1_HAND = ALL_CARDS.slice(48, 57);
