@@ -1,5 +1,6 @@
 import { Card } from "./type.ts";
 import { createNewInitialConfig } from "./initialize.ts";
+import { calculateStuckProbability } from "./calculate_stuck_probability.ts";
 
 const print_card = (c: Card) => {
   if (c.suit === "歪") return "歪";
@@ -16,7 +17,7 @@ console.log({
   , CONCEALED: CONCEALED.map(print_card)
 });
 
-function next_to(c1: Card, c2: Card) {
+export function next_to(c1: Card, c2: Card) {
   if (c1.suit === "歪" || c2.suit === "歪") {
     return true;
   } else {
@@ -58,4 +59,6 @@ function runUntilStuckComes() {
   }
 }
 
-runUntilStuckComes();
+// runUntilStuckComes();
+
+console.log(calculateStuckProbability(1e8));
