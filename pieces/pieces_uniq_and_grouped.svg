@@ -39,8 +39,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g26"
-       inkscape:label="kauk00">
+       id="kauk00">
       <rect
          style="fill:#035445;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
          id="rect1"
@@ -76,8 +75,7 @@
          transform="rotate(90)" />
     </g>
     <g
-       id="g25"
-       inkscape:label="kauk01"
+       id="kauk01"
        transform="translate(-21.431194,-21.431225)">
       <rect
          style="fill:#035445;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -121,8 +119,7 @@
          y="58.107376" />
     </g>
     <g
-       id="g24"
-       inkscape:label="kauk02"
+       id="kauk02"
        transform="translate(-21.431194,-21.431225)">
       <rect
          style="fill:#035445;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -173,8 +170,7 @@
          y="80.107407" />
     </g>
     <g
-       id="g23"
-       inkscape:label="kauk03"
+       id="kauk03"
        transform="translate(-21.431194,-21.431225)">
       <rect
          style="fill:#035445;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -232,8 +228,7 @@
          y="102.10742" />
     </g>
     <g
-       id="g22"
-       inkscape:label="kauk04"
+       id="kauk04"
        transform="translate(-21.431194,-21.431225)">
       <rect
          style="fill:#035445;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -279,8 +274,7 @@
          transform="matrix(-0.98044626,-0.19678701,0,1,0,0)" />
     </g>
     <g
-       id="g21"
-       inkscape:label="kauk05"
+       id="kauk05"
        transform="translate(-21.431194,-21.431225)">
       <rect
          style="fill:#035445;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -318,8 +312,7 @@
          style="fill:#ffffff;stroke-width:0.297049" />
     </g>
     <g
-       id="g20"
-       inkscape:label="kauk06"
+       id="kauk06"
        transform="translate(-21.431194,-21.431225)">
       <rect
          style="fill:#035445;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -364,8 +357,7 @@
          style="fill:#ffffff;stroke-width:0.297049" />
     </g>
     <g
-       id="g19"
-       inkscape:label="kauk07"
+       id="kauk07"
        transform="translate(-21.431194,-21.431225)">
       <rect
          style="fill:#035445;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -417,8 +409,7 @@
          style="fill:#ffffff;stroke-width:0.297049" />
     </g>
     <g
-       id="g18"
-       inkscape:label="kauk08"
+       id="kauk08"
        transform="translate(-21.431194,-21.431225)">
       <rect
          style="fill:#035445;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -470,8 +461,7 @@
          style="fill:#ffffff;stroke-width:0.297049" />
     </g>
     <g
-       id="g17"
-       inkscape:label="kauk09"
+       id="kauk09"
        transform="translate(-21.431194,-21.431225)">
       <rect
          style="fill:#035445;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -646,8 +636,7 @@
          r="0.61646682" />
     </g>
     <g
-       id="g16"
-       inkscape:label="kua00"
+       id="kua00"
        transform="translate(-33.214249,-21.120424)">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -684,8 +673,7 @@
          transform="rotate(90)" />
     </g>
     <g
-       id="g15"
-       inkscape:label="kua01"
+       id="kua01"
        transform="translate(-33.214249,-21.120424)">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -729,8 +717,7 @@
          y="57.79657" />
     </g>
     <g
-       id="g14"
-       inkscape:label="kua02"
+       id="kua02"
        transform="translate(-33.214249,-21.120415)">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -781,8 +768,7 @@
          y="79.796577" />
     </g>
     <g
-       id="g13"
-       inkscape:label="kua03"
+       id="kua03"
        transform="translate(-33.214249,-21.12043)">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -887,8 +873,7 @@
          transform="matrix(-0.98044626,-0.19678701,0,1,0,0)" />
     </g>
     <g
-       id="g11"
-       inkscape:label="kua05"
+       id="kua05"
        transform="translate(-33.214264,-25.353683)">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -926,8 +911,7 @@
          style="fill:#271a14;fill-opacity:1;stroke-width:0.30302" />
     </g>
     <g
-       id="g10"
-       inkscape:label="kua06"
+       id="kua06"
        transform="translate(-33.214264,-21.120438)">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
