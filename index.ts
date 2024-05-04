@@ -64,5 +64,5 @@ function calculateBalancedGivenTianhuProbability(total: number): number {
   return balanced / hule;
 }
 
-console.log(calculateBalancedGivenTianhuProbability(1e6));
+console.log(calculateBalancedGivenTianhuProbability(1e7));
 
