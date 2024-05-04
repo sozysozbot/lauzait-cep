@@ -22,16 +22,16 @@ function probabilityOfAvoiding(o: { all: number, draw: number, avoid: number }):
  * @returns The stuck probability for a single sample.
  */
 export function calculateStuckProbabilityForSingleSample(): number {
-  const { BOARD, PLAYER_1_HAND, PLAYER_2_HAND, CONCEALED } = createNewInitialConfig();
+  const { BOARD, PLAYER_1_HAND, PLAYER_2_HAND, PLAYER_3_HAND, PLAYER_4_HAND, CONCEALED } = createNewInitialConfig();
   if (PLAYER_1_HAND.filter(c => c.suit === "歪").length !== 0) { return 0; }
 
-  const remaining = BOARD.concat(PLAYER_2_HAND).concat(CONCEALED);
+  const remaining = BOARD.concat(PLAYER_2_HAND).concat(PLAYER_3_HAND).concat(PLAYER_4_HAND).concat(CONCEALED);
 
   const nonstuck_cards = remaining.filter(
     rem_c => PLAYER_1_HAND.some(hand_c => next_to(rem_c, hand_c))
   );
 
-  return probabilityOfAvoiding({ all: remaining.length, draw: 48, avoid: nonstuck_cards.length });
+  return probabilityOfAvoiding({ all: remaining.length, draw: 24, avoid: nonstuck_cards.length });
 }
 
 /**

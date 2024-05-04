@@ -35,7 +35,7 @@ console.assert(is_entirely_stuck({ BOARD: [{ suit: "筆", rank: 6, id: 1e42 }], 
 console.assert(!is_entirely_stuck({ BOARD: [{ suit: "筆", rank: 7, id: 1e42 }, { suit: "兵", rank: 7, id: 1e42 }], PLAYER_1_HAND: [{ suit: "筆", rank: 8, id: 1e42 }] }))
 console.assert(!is_entirely_stuck({ BOARD: [{ suit: "筆", rank: 7, id: 1e42 }], PLAYER_1_HAND: [{ suit: "筆", rank: 8, id: 1e42 }, { suit: "兵", rank: 8, id: 1e42 }] }))
 
-
+/*
 function calculateProbabilityOfStuck(total: number) {
   let stuck = 0;
   for (let i = 1; i <= total; i++) {
@@ -45,10 +45,10 @@ function calculateProbabilityOfStuck(total: number) {
     }
   }
   console.log(`Estimated probability of getting stuck: ${stuck}/${total} = ${stuck / total}`);
-}
+}*/
 
 // calculateProbabilityOfStuck(1e8);
-
+/*
 function runUntilStuckComes() {
   for (let i = 1; ; i++) {
     if (!(i % 1000000)) { console.log(`Running #${i}:`) }
@@ -58,7 +58,7 @@ function runUntilStuckComes() {
     }
   }
 }
-
+*/
 // runUntilStuckComes();
 
-console.log(calculateStuckProbability(1e8));
+console.log(calculateStuckProbability(1e7));
