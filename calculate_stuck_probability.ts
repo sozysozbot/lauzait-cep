@@ -1,5 +1,5 @@
-import { next_to } from "./index.ts";
 import { createNewInitialConfig } from "./initialize.ts";
+import { Card } from "./type.ts";
 
 /**
  * Calculates the probability of choosing `draw` cards from `all` cards without choosing any of the `avoid` cards.
@@ -47,4 +47,12 @@ export function calculateStuckProbability(total: number): number {
     stuck += calculateStuckProbabilityForSingleSample();
   }
   return stuck / total;
+}
+
+export function next_to(c1: Card, c2: Card) {
+  if (c1.suit === "歪" || c2.suit === "歪") {
+    return true;
+  } else {
+    return c1.suit === c2.suit && (c1.rank + 1 === c2.rank || c2.rank + 1 === c1.rank);
+  }
 }
