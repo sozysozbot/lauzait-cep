@@ -10,10 +10,31 @@ deno を入れて
 deno run index.ts
 ```
 
-## 配牌時の手詰まり
+## 配牌時の手詰まり確率
+
+計算:
+
+```js
+calculateStuckProbability(1e9)
+```
 
 ファイル: initially_stuck.txt
 
 グラフ図示: https://docs.google.com/spreadsheets/d/1xNfpjH-QGHg32vDoLSKOzt4VY2htTnnptI7sIBVg6Tg/edit#gid=0
 
 ![](./initially_stuck.png)
+
+
+## 配牌時の天和確率
+
+計算:
+
+```js
+calculateTianhuProbability(3e8)
+```
+
+ファイル: tianhu.txt
+
+グラフ図示: https://docs.google.com/spreadsheets/d/1xNfpjH-QGHg32vDoLSKOzt4VY2htTnnptI7sIBVg6Tg/edit#gid=515372649
+
+![](./tianhu.png)
