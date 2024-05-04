@@ -38,4 +38,4 @@ function calculateTianhuProbability(total: number): number {
   return stuck / total;
 }
 
-console.log(calculateTianhuProbability(1e6));
+console.log(calculateTianhuProbability(3e8));
