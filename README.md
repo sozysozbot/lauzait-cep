@@ -9,3 +9,11 @@ deno を入れて
 ```bash
 deno run index.ts
 ```
+
+## 配牌時の手詰まり
+
+ファイル: initially_stuck.txt
+
+グラフ図示: https://docs.google.com/spreadsheets/d/1xNfpjH-QGHg32vDoLSKOzt4VY2htTnnptI7sIBVg6Tg/edit#gid=0
+
+![](./initially_stuck.png)
