@@ -43,7 +43,9 @@ export function calculateStuckProbabilityForSingleSample(): number {
 export function calculateStuckProbability(total: number): number {
   let stuck = 0;
   for (let i = 1; i <= total; i++) {
-    if (!(i % 100000)) { console.log(`${i}/${total} done.`) }
+    if (!(i % 100000)) {
+      console.log(`${i}\t/${total} done. Current estimate:\t${stuck / i}`)
+    }
     stuck += calculateStuckProbabilityForSingleSample();
   }
   return stuck / total;

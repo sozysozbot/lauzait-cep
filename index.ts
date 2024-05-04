@@ -8,13 +8,13 @@ const print_card = (c: Card) => {
   return c.suit + rank;
 }
 
-const { BOARD, PLAYER_1_HAND, PLAYER_2_HAND, CONCEALED } = createNewInitialConfig();
+/*const { BOARD, PLAYER_1_HAND, PLAYER_2_HAND, CONCEALED } = createNewInitialConfig();
 
 console.log({
   BOARD: BOARD.map(print_card)
   , PLAYER_1_HAND: PLAYER_1_HAND.map(print_card)
   , PLAYER_2_HAND: PLAYER_2_HAND.map(print_card)
   , CONCEALED: CONCEALED.map(print_card)
-});
+});*/
 
-console.log(calculateStuckProbability(1e8));
+console.log(calculateStuckProbability(1e9));
